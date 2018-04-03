@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GALLERY COLUMNAS="6" XPOSICION="130" YPOSICION="130" WIDTH="100" HEIGHT="100">
+<IMAGE FULL="full_images/image1.jpg" THUMB="thumbs/thumb1.jpg" />
+<IMAGE FULL="full_images/image2.jpg" THUMB="thumbs/thumb2.jpg" />
+<IMAGE FULL="full_images/image3.jpg" THUMB="thumbs/thumb3.jpg" />
+<IMAGE FULL="full_images/image4.jpg" THUMB="thumbs/thumb4.jpg" />
+<IMAGE FULL="full_images/image5.jpg" THUMB="thumbs/thumb5.jpg" />
+<IMAGE FULL="full_images/image6.jpg" THUMB="thumbs/thumb6.jpg" />
+<IMAGE FULL="full_images/image7.jpg" THUMB="thumbs/thumb7.jpg" />
+<IMAGE FULL="full_images/image8.jpg" THUMB="thumbs/thumb8.jpg" />
+<IMAGE FULL="full_images/image9.jpg" THUMB="thumbs/thumb9.jpg" />
+<IMAGE FULL="full_images/image10.jpg" THUMB="thumbs/thumb10.jpg" />
+<IMAGE FULL="full_images/image11.jpg" THUMB="thumbs/thumb11.jpg" />
+<IMAGE FULL="full_images/image12.jpg" THUMB="thumbs/thumb12.jpg" />
+<IMAGE FULL="full_images/image13.jpg" THUMB="thumbs/thumb13.jpg" />
+<IMAGE FULL="full_images/image14.jpg" THUMB="thumbs/thumb14.jpg" />
+<IMAGE FULL="full_images/image14.jpg" THUMB="thumbs/thumb15.jpg" />
+<IMAGE FULL="full_images/image14.jpg" THUMB="thumbs/thumb16.jpg" />
+<IMAGE FULL="full_images/image14.jpg" THUMB="thumbs/thumb17.jpg" />
+<IMAGE FULL="full_images/image14.jpg" THUMB="thumbs/thumb18.jpg" />
+<IMAGE FULL="full_images/image14.jpg" THUMB="thumbs/thumb19.jpg" />
+<IMAGE FULL="full_images/image14.jpg" THUMB="thumbs/thumb20.jpg" />
+</GALLERY>
